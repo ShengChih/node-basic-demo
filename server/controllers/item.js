@@ -21,7 +21,7 @@ module.exports = {
             .save()
             .then(function (item) {
                 res.setHeader('Content-Type', 'application/json');
-                res.send(JSON.stringify(items));            })
+                res.send(JSON.stringify(item));            })
             .catch(function (err) {
                 next(err)
             });
