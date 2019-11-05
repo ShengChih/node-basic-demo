@@ -22,7 +22,7 @@
     "body-parser": "^1.19.0",
     "es-checker": "^1.4.1",
     "express": "^4.17.1",
-    "mongoose": "^5.6.2",
+    "mongoose": "^5.7.5",
     "uuid": "^3.3.2",
     "vue-cli": "^2.9.6"
   },
